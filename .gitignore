@@ -1,24 +1,28 @@
 # Compiled class file
 *.class
-
 # Log file
 *.log
-
-# BlueJ files
+*.png
+*.jpg
+*.pt
+*.onnx
+*.torchscript
 *.ctxt
-
-# Mobile Tools for Java (J2ME)
+__pycache__sss
 .mtj.tmp/
-
+.idea
 # Package Files #
 *.jar
 *.war
 *.nar
 *.ear
+*.iml
 *.zip
 *.tar.gz
 *.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+webapp
+target
+logs
+*.db
